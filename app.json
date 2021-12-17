@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "mining4pros",
+    "slug": "mining4pros",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "mining4pros"
+}
